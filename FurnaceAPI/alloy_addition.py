@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Aug 21 16:10:23 2019
-
-@author: 018614
-"""
 
 import numpy as np
 from scipy.optimize import linprog
